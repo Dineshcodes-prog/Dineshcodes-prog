@@ -1,7 +1,7 @@
 ﻿## Hi there 👋 It's me Dinesh
 Java Full Stack Developer | Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-🔭 Currently learning:<br>Java Full Stack Development with Generative AI at KodNest.<br><br>🌱 Currently exploring:<br>Java, Spring Boot, Python, MySQL, Generative AI, Data Structures & Algorithms, JDBC, Hibernate, REST APIs, React, HTML, CSS, and JavaScript.<br><br>👯 Looking to collaborate on:<br>Java Full Stack, Python, AI, and Open Source projects.<br><br>🤝 Looking for help with:<br>Microservices, System Design, Cloud (AWS), and DevOps.<br>⚡ Fun fact:<br>I enjoy solving coding challenges, building real-world projects, and turning ideas into practical applications.
+<br>🔭 Currently learning:<br>Java Full Stack Development with Generative AI at KodNest.<br><br>🌱 Currently exploring:<br>Java, Spring Boot, Python, MySQL, Generative AI, Data Structures & Algorithms, JDBC, Hibernate, REST APIs, React, HTML, CSS, and JavaScript.<br><br>👯 Looking to collaborate on:<br>Java Full Stack, Python, AI, and Open Source projects.<br><br>🤝 Looking for help with:<br>Microservices, System Design, Cloud (AWS), and DevOps.<br>⚡ Fun fact:<br>I enjoy solving coding challenges, building real-world projects, and turning ideas into practical applications.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-mano/) 
 # 💻 Tech Stack:
@@ -10,9 +10,5 @@ Java Full Stack Developer | Software Engineer
 ![](https://github-readme-stats.shion.dev/api?username=Dineshcodes-prog&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Dineshcodes-prog&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dineshcodes-prog&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Dineshcodes-prog&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshcodes-prog&bg_color=050505&color=d8dee4&line=838a91&point=20f355&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
