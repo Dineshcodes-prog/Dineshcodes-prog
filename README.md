@@ -1,6 +1,7 @@
 ﻿## Hi there 👋 It's me Dinesh
 Java Full Stack Developer | Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 <br>🔭 Currently learning:<br>Java Full Stack Development with Generative AI at KodNest.<br><br>🌱 Currently exploring:<br>Java, Spring Boot, Python, MySQL, Generative AI, Data Structures & Algorithms, JDBC, Hibernate, REST APIs, React, HTML, CSS, and JavaScript.<br>⚡ Fun fact:<br>I enjoy solving coding challenges, building real-world projects, and turning ideas into practical applications.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-mano/) 
