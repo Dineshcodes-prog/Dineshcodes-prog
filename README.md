@@ -3,7 +3,7 @@
 Java Full Stack Developer | Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-🔭 Currently learning:<br>Java Full Stack Development with Generative AI at KodNest.<br><br>🌱 Currently exploring:<br>Java, Spring Boot, Python, MySQL, Generative AI, Data Structures & Algorithms, JDBC, Hibernate, REST APIs, React, HTML, CSS, and JavaScript.<br><br>👯 Looking to collaborate on:<br>Java Full Stack, Python, AI, and Open Source projects.<br><br>🤝 Looking for help with:<br>Microservices, System Design, Cloud (AWS), and DevOps.<br><br>💬 Ask me about:<br>Java, Python, MySQL, OOP, Collections Framework, JDBC, SQL, HTML, CSS, JavaScript, and React.<br><br>🎯 Career Objective:<br>Aspiring Java Full Stack Developer with a strong foundation in Java, Python, MySQL, and modern web technologies. Passionate about building scalable applications and continuously learning new technologies.<br><br>⚡ Fun fact:<br>I enjoy solving coding challenges, building real-world projects, and turning ideas into practical applications.
+🔭 Currently learning:<br>Java Full Stack Development with Generative AI at KodNest.<br><br>🌱 Currently exploring:<br>Java, Spring Boot, Python, MySQL, Generative AI, Data Structures & Algorithms, JDBC, Hibernate, REST APIs, React, HTML, CSS, and JavaScript.<br><br>👯 Looking to collaborate on:<br>Java Full Stack, Python, AI, and Open Source projects.<br><br>🤝 Looking for help with:<br>Microservices, System Design, Cloud (AWS), and DevOps.<br>⚡ Fun fact:<br>I enjoy solving coding challenges, building real-world projects, and turning ideas into practical applications.
 
 
 ## 🌐 Socials:
